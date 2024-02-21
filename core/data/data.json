@@ -1,0 +1,47 @@
+{
+    "url": {
+        "home_page": "https://www.flypgs.com/en",
+        "baggage_allowance_page": "https://www.flypgs.com/en/pegasus-baggage-allowance",
+        "bolbol_page": "https://www.flypgs.com/en/bolbol",
+        "signup_page": "https://web.flypgs.com/signup?language=EN",
+        "login_page": "https://web.flypgs.com/login",
+        "flight_page": "https://web.flypgs.com/booking?language=en&adultCount=1&arrivalPort=BEG&departurePort=AUH&currency=GBP&dateOption=1&departureDate=2024-01-05&returnDate=2024-01-14"
+    },
+
+    "data": {
+        "searchData": "cheap flights"
+    },
+
+    "signup": {
+        "name": "AminaBelma",
+        "surname": "SrnaSehic",
+        "number": "5678910111",
+        "email": "amina.belma@gmail.com"
+    },
+
+    "login": {
+        "number": "5678910111",
+        "password": "Password123456"
+
+    },
+
+    "carrental": {
+        "location": "Belgrade - Airport"
+    },
+
+    "smoke": {
+        "name": "AminaBelma",
+        "surname": "SrnaSehic",
+        "date": "12032024",
+        "phone": "5444444444",
+        "email": "amina.belma@gmail.com",
+        "cardnumber": "1234567891011121",
+        "holder": "Aminabelma",
+        "expirymonth": "03",
+        "expiaryyear": "2024",
+        "cvv": "123"
+        
+    }
+
+
+}
