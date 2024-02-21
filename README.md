@@ -1,4 +1,4 @@
-# Software verification, validation, and testing project in Selenium with Visual Studio (Java)
+# Software Verification, Validation, and Testing project in Selenium with Visual Studio (Java)
 
 ## Project Github link https://github.com/srna2/svvt_project.git
 
